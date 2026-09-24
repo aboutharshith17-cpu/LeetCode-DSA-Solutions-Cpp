@@ -1,0 +1,20 @@
+# 1501 — LeetCode Problem 1501
+
+- **Problem ID:** 1501
+- **LeetCode:** https://leetcode.com/problemset/
+
+## Approach
+
+Write your solution approach here.
+
+## Complexity
+
+- **Time:** 
+- **Space:** 
+
+## Status
+
+- [ ] C++ solution
+- [ ] Explanation
+- [ ] Complexity analysis
+- [ ] Test cases

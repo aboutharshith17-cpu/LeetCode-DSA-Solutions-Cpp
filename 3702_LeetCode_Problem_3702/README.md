@@ -1,0 +1,20 @@
+# 3702 — LeetCode Problem 3702
+
+- **Problem ID:** 3702
+- **LeetCode:** https://leetcode.com/problemset/
+
+## Approach
+
+Write your solution approach here.
+
+## Complexity
+
+- **Time:** 
+- **Space:** 
+
+## Status
+
+- [ ] C++ solution
+- [ ] Explanation
+- [ ] Complexity analysis
+- [ ] Test cases

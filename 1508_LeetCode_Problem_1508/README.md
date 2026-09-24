@@ -1,0 +1,20 @@
+# 1508 — LeetCode Problem 1508
+
+- **Problem ID:** 1508
+- **LeetCode:** https://leetcode.com/problemset/
+
+## Approach
+
+Write your solution approach here.
+
+## Complexity
+
+- **Time:** 
+- **Space:** 
+
+## Status
+
+- [ ] C++ solution
+- [ ] Explanation
+- [ ] Complexity analysis
+- [ ] Test cases

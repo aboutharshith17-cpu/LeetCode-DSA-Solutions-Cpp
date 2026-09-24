@@ -1,0 +1,20 @@
+# 0362 — LeetCode Problem 0362
+
+- **Problem ID:** 362
+- **LeetCode:** https://leetcode.com/problemset/
+
+## Approach
+
+Write your solution approach here.
+
+## Complexity
+
+- **Time:** 
+- **Space:** 
+
+## Status
+
+- [ ] C++ solution
+- [ ] Explanation
+- [ ] Complexity analysis
+- [ ] Test cases
