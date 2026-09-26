@@ -12,7 +12,7 @@ public:
 
       while (left <right) {
             int h =min(height[left],height[right]);
-            int width=right - left;
+            int width=right-left;
             int area=h*width;
             maxWater=max(maxWater,area);
 
