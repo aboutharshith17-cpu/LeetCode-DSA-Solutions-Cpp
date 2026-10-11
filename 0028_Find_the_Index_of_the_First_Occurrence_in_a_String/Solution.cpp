@@ -5,5 +5,9 @@ using namespace std;
 
 class Solution {
 public:
-    // Add the required LeetCode method here.
+    int strStr(string haystack, string needle) {
+        if( haystack.find(needle)==string::npos) return -1;
+        
+      return  haystack.find(needle);
+    }
 };
